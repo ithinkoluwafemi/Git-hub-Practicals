@@ -1,1 +1,1 @@
-# Welcome to GITHUB Ecommerce Project.
+# Welcome to github e-commerce Project.
